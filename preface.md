@@ -16,3 +16,8 @@ My notes - basically they are sharing six steps for design process
 6. Testing - *Articulate the examples as tests and ensure that the function passes all. Doing so discovers
 mistakes. Tests also supplement examples in that they help others read and understand the
 definition when the need arises—and it will arise for any serious program.*
+
+Iterative refinement 
+Notes - Getting everything right at the first is nearly imposible
+iterative refinement
+recommends stripping away all inessential details at first and finding a solution for the remaining core problem. A refinement step adds in one of these omitted details and resolves the expanded problem, using the existing solution as much as possible. Here the author mentiones that programmer are mini scientist who predict model.
