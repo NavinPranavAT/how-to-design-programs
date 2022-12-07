@@ -21,3 +21,7 @@ Iterative refinement
 Notes - Getting everything right at the first is nearly imposible
 iterative refinement
 recommends stripping away all inessential details at first and finding a solution for the remaining core problem. A refinement step adds in one of these omitted details and resolves the expanded problem, using the existing solution as much as possible. Here the author mentiones that programmer are mini scientist who predict model.
+
+DrRacker and the Teaching languages
+
+This is book is build with their own programming language. This language is similar to the major current trending languages like Python, js, java etc.
