@@ -24,4 +24,14 @@ recommends stripping away all inessential details at first and finding a solutio
 
 DrRacker and the Teaching languages
 
-This is book is build with their own programming language. This language is similar to the major current trending languages like Python, js, java etc.
+This is book is build with their own programming language(Racket). This language is similar to the major current trending languages like Python, js, java etc.
+
+There are plenty of existing appoach for a problem, we have to choose the right approach which suits our senario.
+We must practice programs in order to become a good programer. Programming is an art which develops mathematical skills, analytical skils and reading and writing skills.
+A program designer must have these skills
+1. analyze a problem statement, typically stated as a word problem;
+2. extract and express its essence, abstractly;
+3. illustrate the essence with examples;
+4. make outlines and plans based on this analysis;
+5. evaluate results with respect to expected outcomes; and
+6. revise the product in light of failed checks and tests. 
